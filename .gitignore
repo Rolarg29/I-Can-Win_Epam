@@ -1,0 +1,9 @@
+#Data base files
+*.db
+
+#log files
+*.log
+
+#directories
+target/
+bin/
